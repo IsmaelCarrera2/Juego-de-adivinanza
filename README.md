@@ -10,10 +10,15 @@ Se necesita lo siguiente antes de comenzar:
 Para este proyecto se configuró Git de la siguiente manera:
 
 1.- Se abrió un terminal y se navego hasta la carpeta donde se desea crear el proyecto
+
 2.- Se ejecuta el siguiente comando para inicializar un nuevo repositorio de Git: git init
+
 3.- Crear un nuevo archivo llamado proyecto.py y se agrega el código
-4.- Se agrego el archivo proyecto.py a el repositorio Git ejecutando el siguiente comando: gitt add ahorcado.py
+
+4.- Se agrego el archivo proyecto.py a el repositorio Git ejecutando el siguiente comando: gitt add proyecto.py
+
 5.- Se usa el comando git commit para guarda los cambios que se ha realizado en el repositorio de Git
+
 6.- Se usa el comando git push + el url del repositorio, para que aparezca en el repositorio de github
 
 Cuando se configura Git para el proyecto se puede usarlo para colaborar con otros programadores pero se necesita compartir el ropositorio con ellos.
